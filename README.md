@@ -11,4 +11,5 @@ A Human Resource Analytics project that addresses the question "Why do employees
 7. Left / Not Left
 8. Promotion in the Last 5 Years
 9. Salary Order
-10. The dataset is taken from Kaggle: https://www.kaggle.com/ludobenistant/hr-analytics
+
+My team built linear regression and logistic regression models to determine the best predictor variables. We determined the same by computing metrics such as Sum of Squares error (SSE) and R-Squared value. The dataset is taken from Kaggle: https://www.kaggle.com/ludobenistant/hr-analytics.
